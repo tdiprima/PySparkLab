@@ -6,4 +6,4 @@
 
 [Playlist](https://www.youtube.com/watch?v=WyZmM6K7ubc&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg)
 
-[https://www.databricks.com/try-databricks#account](https://www.databricks.com/try-databricks#account)
+[Try Databricks free](https://www.databricks.com/try-databricks#account)
