@@ -1,8 +1,10 @@
 # PySparkLab
 
-PySpark is the Python API for Apache Spark, an open-source, distributed computing system designed for big data processing and analytics. PySpark allows you to write Spark applications in Python, leveraging the simplicity of Python programming while accessing the powerful distributed data processing capabilities of Spark.
+PySpark is similar to Pandas in some ways, but it's not exactly like Pandas. Here's a brief description of PySpark:
 
-Following the tutorials:
+PySpark is a Python library that provides an interface to Apache Spark, a unified analytics engine for large-scale data processing. PySpark allows you to write Python code that can run on Spark's distributed computing engine, which means you can process large datasets in parallel across a cluster of machines.
+
+## Following the tutorials:
 
 [PySpark Tutorial](https://youtu.be/_C8kWso4ne4?si=xjnYdQpt2cwoPBrs)
 
