@@ -13,3 +13,10 @@ PySpark is a Python library that provides an interface to Apache Spark, a unifie
 [Playlist](https://www.youtube.com/watch?v=WyZmM6K7ubc&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg)
 
 [Try Databricks free](https://www.databricks.com/try-databricks#account)
+
+### Licensing Notice
+
+This project includes third-party open-source code, which remains subject to its original licenses.  
+Attribution is provided in the source code where applicable.  
+
+If you believe there is an issue with licensing, please **open an issue** or **contact the repository owner** for resolution.
